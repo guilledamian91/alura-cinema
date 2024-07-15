@@ -1,3 +1,5 @@
+Deployd de la pagina : [Pagina en funcionamiento](https://alura-cinema-five-pi.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
