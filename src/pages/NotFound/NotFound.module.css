@@ -1,0 +1,18 @@
+.text_error {
+  width: 100%;
+  margin: 0 auto;
+  height: 2em;
+  font-size: 2em;
+}
+
+.error {
+  margin: 0 auto;
+  font-size: 12em;
+  color: red;
+}
+
+.container {
+  width: 100%;
+  height: 589px;
+  padding-top: 200px;
+}
